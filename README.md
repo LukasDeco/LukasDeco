@@ -27,6 +27,10 @@
       <img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js" />
       <br>Next.js
   </td>
+  <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bun" width="45" height="45" alt="Next.js" />
+      <br>Bun
+  </td>
 </tr>
 <tr>
   <td align="center" width="90">
@@ -42,12 +46,16 @@
       <br>MongoDB
   </td>
   <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=kafka" width="45" height="45" alt="MongoDB" />
+      <br>Kafka
+  </td>
+  <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker" />
       <br>Docker
   </td>
   <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="45" height="45" alt="Kubernetes" />
-      <br>Kubernetes
+      <img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Kubernetes" />
+      <br>Linux
   </td>
   <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=aws" width="45" height="45" alt="AWS" />
@@ -60,7 +68,7 @@
       <br>GraphQL
   </td>
   <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=rescript" width="45" height="45" alt="ReScript" />
+      <img src="https://skillicons.dev/icons?i=ocaml" width="45" height="45" alt="ReScript" />
       <br>ReScript
   </td>
   <td align="center" width="90">
