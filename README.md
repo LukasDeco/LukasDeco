@@ -34,7 +34,7 @@
 </tr>
 <tr>
   <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=solana" width="45" height="45" alt="Solana" />
+      <img src="https://solana.com/_next/static/media/solanaLogo.74d35f7a.svg" width="45" height="45" alt="Solana" />
       <br>Solana
   </td>
   <td align="center" width="90">
